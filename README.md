@@ -10,7 +10,7 @@ Matkul: Bahasa Pemrograman
 
 <img width="570" alt="Screenshot 2024-11-19 095550" src="https://github.com/user-attachments/assets/0bcd7dc3-1cb8-4672-a2ab-b36c762177d0">
 
-# Elemen.py
+# latihan.py
 
 ```python
 list_a = [1, 2, 3, 4, 5]
@@ -49,7 +49,7 @@ hasil program tersebut:
 
 <img width="238" alt="Screenshot 2024-11-19 095211" src="https://github.com/user-attachments/assets/bca5538b-9a02-498e-9af9-6884c4cf58e1">
 
-# Menambah data.py
+# tugas nilai.py
 
 ```python
 class Mahasiswa:
@@ -89,7 +89,7 @@ for i, mhs in enumerate(mahasiswa):
 print("-" * 60)
 ```
 
-# Penjelasan Code Menambah data
+# Penjelasan Code
 
 ```python
 class Mahasiswa:
